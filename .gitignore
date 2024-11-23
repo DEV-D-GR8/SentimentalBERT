@@ -1,0 +1,5 @@
+sentiment/
+comprehensive_training_metrics.png
+confusion_matrix.png
+training_metrics.png
+backend/__pycache__
